@@ -1,8 +1,6 @@
 
 import java.util.Scanner;
-
 public class ejercicio_10 {
-
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         double valorK, kilovatiosMes, edad, valorPlanilla, descuento;
