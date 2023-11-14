@@ -4,7 +4,6 @@ public class ejercicio_12 {
          Scanner teclado = new Scanner(System.in);
         String marcaVehiculo, paisVehiculo;
         double costoVehiculo, precioVenta;
-        System.out.println("Ingrese los datos de su veículo");
         System.out.println("Ingrese la marca de su veículo");
         marcaVehiculo = teclado.nextLine();
         System.out.println("Ingrese el país de donde viene su veículo");
